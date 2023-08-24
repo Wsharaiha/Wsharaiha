@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Wsharaiha/Wsharaiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Wsharaiha/Wsharaiha** is a ✨ __special__ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
