@@ -24,4 +24,6 @@ Name | Middle | Last
 1 | 2 | 3
 ***
 
+![Porsche Carrera](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 ![alt text](https://sd.keepcalms.com/i-w600/keep-calm-and-be-wadie.jpg "Wadie Is Cool")
